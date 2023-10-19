@@ -14,7 +14,7 @@ $heaing-font-size: 22px;
 
 
 body{
-    background-color:#4B8E6A ;
+    background-color:#496d1e ;
     font-family:$fontstyle; 
     
 p{
@@ -71,11 +71,14 @@ header{
     gap: 5rem;
     margin: 20px 20px 20px 20px;
     color:$fontcolor;
+    border: 1px solid red;
+    .image-description3{
+        margin-left: 400px;
+    }
+   
         
 }
-.image-description3{
-    margin-left: -40px;
-}
+
 
 /*----- button-----*/
 

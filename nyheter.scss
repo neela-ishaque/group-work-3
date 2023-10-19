@@ -5,7 +5,7 @@
 } 
 
 
-$fontcolor: hsl(257, 23%, 94%);
+$fontcolor: hsl(260, 11%, 95%);
 $fontstyle: Arial;
 $fontsize:18px;
 $heaing-font-size: 22px;
@@ -60,7 +60,7 @@ header{
     display:flex;
     justify-content: space-around;
     gap: 5rem;
-    margin: 30px 20px 40px 20px ;
+    margin: 50px 20px 20px 20px ;
     color:$fontcolor;  
 }
 
@@ -69,8 +69,9 @@ header{
     display:flex;
     justify-content: space-around;
     gap: 5rem;
-    margin: 20px 20px 40px 20px;
+    margin: 20px 20px 60px 20px;
     color:$fontcolor;
+    
     
 }
 

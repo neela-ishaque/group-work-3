@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #496d1e;
+  background-color: rgb(76, 141, 106);
   font-family: Arial;
 }
 body p {
@@ -39,7 +39,7 @@ header {
 .book2 {
   display: flex;
   justify-content: space-around;
-  gap: 3rem;
+  gap: 5rem;
   margin: 20px 20px 20px 20px;
   color: hwb(0 100% 0%);
 }
@@ -48,12 +48,11 @@ header {
   display: flex;
   justify-content: space-around;
   gap: 5rem;
-  margin: 20px 20px 20px 20px;
+  margin-left: 30px;
   color: hwb(0 100% 0%);
-  border: 1px solid red;
 }
 .book3 .image-description3 {
-  margin-left: 400px;
+  margin-left: 40px;
 }
 
 /*----- button-----*/

@@ -14,7 +14,7 @@ $heaing-font-size: 22px;
 
 
 body{
-    background-color:#496d1e ;
+    background-color:rgb(76,141,106) ;
     font-family:$fontstyle; 
     
 p{
@@ -59,7 +59,7 @@ header{
 
     display:flex;
     justify-content: space-around;
-    gap: 3rem;
+    gap: 5rem;
     margin: 20px 20px 20px 20px ;
     color:$fontcolor;  
 }
@@ -69,14 +69,11 @@ header{
     display:flex;
     justify-content: space-around;
     gap: 5rem;
-    margin: 20px 20px 20px 20px;
+    margin-left: 30px ;
     color:$fontcolor;
-    border: 1px solid red;
     .image-description3{
-        margin-left: 400px;
-    }
-   
-        
+        margin-left: 40px;
+    }        
 }
 
 

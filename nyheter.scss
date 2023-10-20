@@ -108,6 +108,19 @@ a:hover{
 
 
 @media (min-width:375px) {
+    .book1{
+    
+        display:flex;
+        justify-content: space-around;
+        gap: 5rem;
+        margin: 20px 20px 30px 20px;
+        color:$fontcolor;   
+        width:103%;
+            
+    }
+    .image-descripton1{
+        margin-left: 40px;
+    }
     
 }
 

@@ -71,7 +71,7 @@ button:hover {
 
 /* -----a tag------ */
 a {
-  color: rgb(249, 247, 247);
+  color: rgb(237, 228, 228);
   text-decoration: none;
 }
 
@@ -93,4 +93,4 @@ a:hover {
   }
 }
 
-/*# sourceMappingURL=nyheter.css.map */
+/*# sourceMappingURL=nyheter.css--watch.map */
